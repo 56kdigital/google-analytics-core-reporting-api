@@ -1,4 +1,4 @@
-# GA_reporting_API
+# GA-reporting-API
 Using the google analytics reporting api to fetch data from GA. 
 
 * ga_data.py
