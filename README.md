@@ -26,4 +26,4 @@ Using the google analytics reporting api to fetch data from GA.
 * get_ga_data.py
   - This file contains the script in which you specify all variables for fetching the data from GA.
 * key
-  - Put your client_secret.json file in this folder. Login with analytics@56kdigital.se and go to https://console.cloud.google.com/apis/credentials?project=keen-acolyte-193714. Download the OAuth 2.0 client ID named google_analytics and place in your key folder.
+  - Put your client_secret.json file in this folder.
